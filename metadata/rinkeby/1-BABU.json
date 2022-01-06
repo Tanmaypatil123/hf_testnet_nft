@@ -1,0 +1,11 @@
+{
+  "name": "BABU",
+  "description": "YEE BABURAO KA STYLE HAI",
+  "image": "https://ipfs.io/ipfs/Qmc7wrbePYo9BNSrZFpfeQpi1SvQ4Wc1mHPJ7AQBVyGNKD?filename=baburao.jpg",
+  "attributes": [
+    {
+      "trait_type": "Haraminess",
+      "value": 100
+    }
+  ]
+}

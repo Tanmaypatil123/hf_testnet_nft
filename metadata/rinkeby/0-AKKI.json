@@ -1,0 +1,11 @@
+{
+    "name": "AKKI",
+    "description": "25 Din mye paisa double",
+    "image": "https://ipfs.io/ipfs/QmcRiimXMm8F2vQuH2Ebr9eSdZVWjxxjiPgYn2FfvXxp2x?filename=akshay.jpg",
+    "attributes": [
+        {
+            "trait_type":"Haraminess",
+            "value":100
+        }
+    ]
+}
